@@ -36,4 +36,4 @@
 ## Контакты
 
 - [Telegram — @exis7ence](https://t.me/exis7ence)
-- [Электронная почта](iliainvoker@yandex.ru)
+- [Электронная почта](mailto:iliainvoker@yandex.ru)
