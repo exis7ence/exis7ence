@@ -10,7 +10,7 @@
 
 Использую в учебных проектах:
 
-- **Go:** стандартная библиотека, HTTP, JSON, обработка ошибок, Go Modules.
+- **Go:** стандартная библиотека, HTTP, REST API, net/http, JSON, обработка ошибок, Go Modules.
 - **Данные:** SQL, SQLite.
 - **Проверка кода:** пакет testing, табличные тесты, Testify, Postman, curl.
 - **Инструменты:** Git, GitHub, Linux/WSL, Docker.
