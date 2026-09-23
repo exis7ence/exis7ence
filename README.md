@@ -27,12 +27,6 @@
 
 **Стек:** Go, net/http, SQLite, SQL, JSON, JWT, Docker.
 
-### [Parcel Tracker — учёт посылок](https://github.com/exis7ence/parcel-tracker-ci)
-
-Учебное консольное приложение для регистрации посылок, просмотра отправлений клиента, изменения адреса и переходов между статусами. Код разделён на сервисный слой и работу с SQLite. В репозитории есть тесты, Dockerfile и workflow GitHub Actions.
-
-**Стек:** Go, database/sql, SQLite, Docker, GitHub Actions.
-
 ## Контакты
 
 - [Telegram — @exis7ence](https://t.me/exis7ence)
